@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>sprites/background.jpg</file>
+        <file>sprites/background1.jpg</file>
+        <file>sprites/1.jpg</file>
+        <file>sprites/2.jpg</file>
+        <file>sprites/3.jpg</file>
+        <file>sprites/4.jpg</file>
+        <file>sprites/5.jpg</file>
+        <file>sprites/manual.png</file>
+        <file>sprites/auto.png</file>
+        <file>sprites/exit.png</file>
+        <file>sprites/continue.png</file>
+        <file>sprites/menu.png</file>
+    </qresource>
+    <qresource prefix="/simulation">
+    <file>sprites/simulationbackground.png</file>
+    <file>sprites/circulito.png</file>
+    <file>sprites/objective.png</file>
+    <file>sprites/UP.png</file>
+    <file>sprites/UP2.png</file>
+    <file>sprites/UP3.png</file>
+    <file>sprites/DOWN.png</file>
+    <file>sprites/DOWN2.png</file>
+    <file>sprites/DOWN3.png</file>
+    <file>sprites/RIGHT.png</file>
+    <file>sprites/RIGHT2.png</file>
+    <file>sprites/RIGHT3.png</file>
+    <file>sprites/LEFT.png</file>
+    <file>sprites/LEFT2.png</file>
+    <file>sprites/LEFT3.png</file>
+    </qresource>
+</RCC>
